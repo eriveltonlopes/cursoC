@@ -1,0 +1,11 @@
+/Users/aluno/Documents/erivelton/teste1/teste1/bin/Debug/netcoreapp2.1/teste1.deps.json
+/Users/aluno/Documents/erivelton/teste1/teste1/bin/Debug/netcoreapp2.1/teste1.runtimeconfig.json
+/Users/aluno/Documents/erivelton/teste1/teste1/bin/Debug/netcoreapp2.1/teste1.runtimeconfig.dev.json
+/Users/aluno/Documents/erivelton/teste1/teste1/bin/Debug/netcoreapp2.1/teste1.dll
+/Users/aluno/Documents/erivelton/teste1/teste1/bin/Debug/netcoreapp2.1/teste1.pdb
+/Users/aluno/Documents/erivelton/teste1/teste1/obj/Debug/netcoreapp2.1/teste1.csprojAssemblyReference.cache
+/Users/aluno/Documents/erivelton/teste1/teste1/obj/Debug/netcoreapp2.1/teste1.csproj.CoreCompileInputs.cache
+/Users/aluno/Documents/erivelton/teste1/teste1/obj/Debug/netcoreapp2.1/teste1.AssemblyInfoInputs.cache
+/Users/aluno/Documents/erivelton/teste1/teste1/obj/Debug/netcoreapp2.1/teste1.AssemblyInfo.cs
+/Users/aluno/Documents/erivelton/teste1/teste1/obj/Debug/netcoreapp2.1/teste1.dll
+/Users/aluno/Documents/erivelton/teste1/teste1/obj/Debug/netcoreapp2.1/teste1.pdb
