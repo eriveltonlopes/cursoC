@@ -1,0 +1,11 @@
+/Users/aluno/Documents/erivelton/aulaterca/aulaterca/bin/Debug/netcoreapp2.1/aulaterca.deps.json
+/Users/aluno/Documents/erivelton/aulaterca/aulaterca/bin/Debug/netcoreapp2.1/aulaterca.runtimeconfig.json
+/Users/aluno/Documents/erivelton/aulaterca/aulaterca/bin/Debug/netcoreapp2.1/aulaterca.runtimeconfig.dev.json
+/Users/aluno/Documents/erivelton/aulaterca/aulaterca/bin/Debug/netcoreapp2.1/aulaterca.dll
+/Users/aluno/Documents/erivelton/aulaterca/aulaterca/bin/Debug/netcoreapp2.1/aulaterca.pdb
+/Users/aluno/Documents/erivelton/aulaterca/aulaterca/obj/Debug/netcoreapp2.1/aulaterca.csprojAssemblyReference.cache
+/Users/aluno/Documents/erivelton/aulaterca/aulaterca/obj/Debug/netcoreapp2.1/aulaterca.csproj.CoreCompileInputs.cache
+/Users/aluno/Documents/erivelton/aulaterca/aulaterca/obj/Debug/netcoreapp2.1/aulaterca.AssemblyInfoInputs.cache
+/Users/aluno/Documents/erivelton/aulaterca/aulaterca/obj/Debug/netcoreapp2.1/aulaterca.AssemblyInfo.cs
+/Users/aluno/Documents/erivelton/aulaterca/aulaterca/obj/Debug/netcoreapp2.1/aulaterca.dll
+/Users/aluno/Documents/erivelton/aulaterca/aulaterca/obj/Debug/netcoreapp2.1/aulaterca.pdb

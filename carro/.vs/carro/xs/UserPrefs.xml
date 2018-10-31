@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{CABAA747-97F2-4AFC-A33D-2AB2FE5EE61C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="carro/Program.cs">
+    <Files>
+      <File FileName="carro/Program.cs" Line="18" Column="43" />
+      <File FileName="carro/CarroCor.cs" Line="13" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.carro PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

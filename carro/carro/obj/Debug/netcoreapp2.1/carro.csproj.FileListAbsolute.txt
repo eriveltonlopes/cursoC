@@ -1,0 +1,11 @@
+/Users/aluno/Documents/erivelton/carro/carro/bin/Debug/netcoreapp2.1/carro.deps.json
+/Users/aluno/Documents/erivelton/carro/carro/bin/Debug/netcoreapp2.1/carro.runtimeconfig.json
+/Users/aluno/Documents/erivelton/carro/carro/bin/Debug/netcoreapp2.1/carro.runtimeconfig.dev.json
+/Users/aluno/Documents/erivelton/carro/carro/bin/Debug/netcoreapp2.1/carro.dll
+/Users/aluno/Documents/erivelton/carro/carro/bin/Debug/netcoreapp2.1/carro.pdb
+/Users/aluno/Documents/erivelton/carro/carro/obj/Debug/netcoreapp2.1/carro.csprojAssemblyReference.cache
+/Users/aluno/Documents/erivelton/carro/carro/obj/Debug/netcoreapp2.1/carro.csproj.CoreCompileInputs.cache
+/Users/aluno/Documents/erivelton/carro/carro/obj/Debug/netcoreapp2.1/carro.AssemblyInfoInputs.cache
+/Users/aluno/Documents/erivelton/carro/carro/obj/Debug/netcoreapp2.1/carro.AssemblyInfo.cs
+/Users/aluno/Documents/erivelton/carro/carro/obj/Debug/netcoreapp2.1/carro.dll
+/Users/aluno/Documents/erivelton/carro/carro/obj/Debug/netcoreapp2.1/carro.pdb

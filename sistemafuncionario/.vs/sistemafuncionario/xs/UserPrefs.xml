@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{1B528536-37A7-4D1A-B2B3-6FA6F01E47CE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="sistemafuncionario/Funcionario.cs">
+    <Files>
+      <File FileName="sistemafuncionario/Program.cs" Line="15" Column="13" />
+      <File FileName="sistemafuncionario/Funcionario.cs" Line="21" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.sistemafuncionario PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

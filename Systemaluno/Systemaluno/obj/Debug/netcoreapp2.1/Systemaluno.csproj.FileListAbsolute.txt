@@ -1,0 +1,11 @@
+/Users/aluno/Documents/erivelton/Systemaluno/Systemaluno/bin/Debug/netcoreapp2.1/Systemaluno.deps.json
+/Users/aluno/Documents/erivelton/Systemaluno/Systemaluno/bin/Debug/netcoreapp2.1/Systemaluno.runtimeconfig.json
+/Users/aluno/Documents/erivelton/Systemaluno/Systemaluno/bin/Debug/netcoreapp2.1/Systemaluno.runtimeconfig.dev.json
+/Users/aluno/Documents/erivelton/Systemaluno/Systemaluno/bin/Debug/netcoreapp2.1/Systemaluno.dll
+/Users/aluno/Documents/erivelton/Systemaluno/Systemaluno/bin/Debug/netcoreapp2.1/Systemaluno.pdb
+/Users/aluno/Documents/erivelton/Systemaluno/Systemaluno/obj/Debug/netcoreapp2.1/Systemaluno.csprojAssemblyReference.cache
+/Users/aluno/Documents/erivelton/Systemaluno/Systemaluno/obj/Debug/netcoreapp2.1/Systemaluno.csproj.CoreCompileInputs.cache
+/Users/aluno/Documents/erivelton/Systemaluno/Systemaluno/obj/Debug/netcoreapp2.1/Systemaluno.AssemblyInfoInputs.cache
+/Users/aluno/Documents/erivelton/Systemaluno/Systemaluno/obj/Debug/netcoreapp2.1/Systemaluno.AssemblyInfo.cs
+/Users/aluno/Documents/erivelton/Systemaluno/Systemaluno/obj/Debug/netcoreapp2.1/Systemaluno.dll
+/Users/aluno/Documents/erivelton/Systemaluno/Systemaluno/obj/Debug/netcoreapp2.1/Systemaluno.pdb

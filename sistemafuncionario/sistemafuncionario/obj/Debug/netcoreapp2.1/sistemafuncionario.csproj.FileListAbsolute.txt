@@ -1,0 +1,11 @@
+/Users/aluno/Documents/erivelton/sistemafuncionario/sistemafuncionario/bin/Debug/netcoreapp2.1/sistemafuncionario.deps.json
+/Users/aluno/Documents/erivelton/sistemafuncionario/sistemafuncionario/bin/Debug/netcoreapp2.1/sistemafuncionario.runtimeconfig.json
+/Users/aluno/Documents/erivelton/sistemafuncionario/sistemafuncionario/bin/Debug/netcoreapp2.1/sistemafuncionario.runtimeconfig.dev.json
+/Users/aluno/Documents/erivelton/sistemafuncionario/sistemafuncionario/bin/Debug/netcoreapp2.1/sistemafuncionario.dll
+/Users/aluno/Documents/erivelton/sistemafuncionario/sistemafuncionario/bin/Debug/netcoreapp2.1/sistemafuncionario.pdb
+/Users/aluno/Documents/erivelton/sistemafuncionario/sistemafuncionario/obj/Debug/netcoreapp2.1/sistemafuncionario.csprojAssemblyReference.cache
+/Users/aluno/Documents/erivelton/sistemafuncionario/sistemafuncionario/obj/Debug/netcoreapp2.1/sistemafuncionario.csproj.CoreCompileInputs.cache
+/Users/aluno/Documents/erivelton/sistemafuncionario/sistemafuncionario/obj/Debug/netcoreapp2.1/sistemafuncionario.AssemblyInfoInputs.cache
+/Users/aluno/Documents/erivelton/sistemafuncionario/sistemafuncionario/obj/Debug/netcoreapp2.1/sistemafuncionario.AssemblyInfo.cs
+/Users/aluno/Documents/erivelton/sistemafuncionario/sistemafuncionario/obj/Debug/netcoreapp2.1/sistemafuncionario.dll
+/Users/aluno/Documents/erivelton/sistemafuncionario/sistemafuncionario/obj/Debug/netcoreapp2.1/sistemafuncionario.pdb
