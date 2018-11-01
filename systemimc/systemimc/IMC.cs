@@ -3,29 +3,29 @@ namespace systemimc
 {
     public class IMC
     {
-        public string Nome {
-            get; set;
+        public string Nome {get; set;}
+        public double Altura {get; set;}
+        public double Peso {get; set;}
+        public double CalculoImc () {
+            return (Peso / (Altura * Altura));
         }
-        public double Altura {
-            get; set;
-        }
-        public double Peso {
-            get; set;
-        }
-        public double Massa(){
-            double resultado = (Peso / (Altura * Altura));
-            if (resultado < 18.5) {
-                Console.WriteLine("Abaixo do peso!!");
-            } else if (resultado >= 18.5 && resultado < 25) {
-                Console.WriteLine("Normal");
-            }else if (resultado >= 25 && resultado < 35 ){
-                Console.WriteLine("OB leve");
-            } else if (resultado >= 35 && resultado < 40 ) {
-                Console.WriteLine("OB Moderada");
+        public string Massa(){
+
+            if (CalculoImc() < 18.5) {
+                return "ABAIXO";
+            } else if (CalculoImc() >= 18.5 && CalculoImc() < 25) {
+                return "NORMAL";
+
+            }else if (CalculoImc() >= 25 && CalculoImc() < 35 ){
+                return "OB MODERADA";
+
+            }else if (CalculoImc() >= 35 && CalculoImc() < 40 ) {
+                return " OB MODERADA";
+
             } else {
-                Console.WriteLine("OB Morbido");
+                return "OB MORBIDA";
             }
-            return resultado;
+
         }
         public IMC()
         {

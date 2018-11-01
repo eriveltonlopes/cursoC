@@ -1,0 +1,11 @@
+/Users/aluno/Documents/erivelton/sysaposentadoria/sysaposentadoria/bin/Debug/netcoreapp2.1/sysaposentadoria.deps.json
+/Users/aluno/Documents/erivelton/sysaposentadoria/sysaposentadoria/bin/Debug/netcoreapp2.1/sysaposentadoria.runtimeconfig.json
+/Users/aluno/Documents/erivelton/sysaposentadoria/sysaposentadoria/bin/Debug/netcoreapp2.1/sysaposentadoria.runtimeconfig.dev.json
+/Users/aluno/Documents/erivelton/sysaposentadoria/sysaposentadoria/bin/Debug/netcoreapp2.1/sysaposentadoria.dll
+/Users/aluno/Documents/erivelton/sysaposentadoria/sysaposentadoria/bin/Debug/netcoreapp2.1/sysaposentadoria.pdb
+/Users/aluno/Documents/erivelton/sysaposentadoria/sysaposentadoria/obj/Debug/netcoreapp2.1/sysaposentadoria.csprojAssemblyReference.cache
+/Users/aluno/Documents/erivelton/sysaposentadoria/sysaposentadoria/obj/Debug/netcoreapp2.1/sysaposentadoria.csproj.CoreCompileInputs.cache
+/Users/aluno/Documents/erivelton/sysaposentadoria/sysaposentadoria/obj/Debug/netcoreapp2.1/sysaposentadoria.AssemblyInfoInputs.cache
+/Users/aluno/Documents/erivelton/sysaposentadoria/sysaposentadoria/obj/Debug/netcoreapp2.1/sysaposentadoria.AssemblyInfo.cs
+/Users/aluno/Documents/erivelton/sysaposentadoria/sysaposentadoria/obj/Debug/netcoreapp2.1/sysaposentadoria.dll
+/Users/aluno/Documents/erivelton/sysaposentadoria/sysaposentadoria/obj/Debug/netcoreapp2.1/sysaposentadoria.pdb

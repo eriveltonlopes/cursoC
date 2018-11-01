@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{DB6153B7-007F-49FA-910C-CE1E04601A5B}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="systemimc/IMC.cs">
     <Files>
-      <File FileName="systemimc/Program.cs" Line="1" Column="1" />
-      <File FileName="systemimc/IMC.cs" Line="6" Column="9" />
+      <File FileName="systemimc/Program.cs" Line="26" Column="13" />
+      <File FileName="systemimc/IMC.cs" Line="22" Column="20" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -11,5 +11,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.systemimc PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.systemimc PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
