@@ -1,0 +1,11 @@
+/Users/aluno/Documents/erivelton/systemcomparar/systemcomparar/bin/Debug/netcoreapp2.1/systemcomparar.deps.json
+/Users/aluno/Documents/erivelton/systemcomparar/systemcomparar/bin/Debug/netcoreapp2.1/systemcomparar.runtimeconfig.json
+/Users/aluno/Documents/erivelton/systemcomparar/systemcomparar/bin/Debug/netcoreapp2.1/systemcomparar.runtimeconfig.dev.json
+/Users/aluno/Documents/erivelton/systemcomparar/systemcomparar/bin/Debug/netcoreapp2.1/systemcomparar.dll
+/Users/aluno/Documents/erivelton/systemcomparar/systemcomparar/bin/Debug/netcoreapp2.1/systemcomparar.pdb
+/Users/aluno/Documents/erivelton/systemcomparar/systemcomparar/obj/Debug/netcoreapp2.1/systemcomparar.csprojAssemblyReference.cache
+/Users/aluno/Documents/erivelton/systemcomparar/systemcomparar/obj/Debug/netcoreapp2.1/systemcomparar.csproj.CoreCompileInputs.cache
+/Users/aluno/Documents/erivelton/systemcomparar/systemcomparar/obj/Debug/netcoreapp2.1/systemcomparar.AssemblyInfoInputs.cache
+/Users/aluno/Documents/erivelton/systemcomparar/systemcomparar/obj/Debug/netcoreapp2.1/systemcomparar.AssemblyInfo.cs
+/Users/aluno/Documents/erivelton/systemcomparar/systemcomparar/obj/Debug/netcoreapp2.1/systemcomparar.dll
+/Users/aluno/Documents/erivelton/systemcomparar/systemcomparar/obj/Debug/netcoreapp2.1/systemcomparar.pdb

@@ -1,0 +1,11 @@
+/Users/aluno/Documents/erivelton/systemimc/systemimc/bin/Debug/netcoreapp2.1/systemimc.deps.json
+/Users/aluno/Documents/erivelton/systemimc/systemimc/bin/Debug/netcoreapp2.1/systemimc.runtimeconfig.json
+/Users/aluno/Documents/erivelton/systemimc/systemimc/bin/Debug/netcoreapp2.1/systemimc.runtimeconfig.dev.json
+/Users/aluno/Documents/erivelton/systemimc/systemimc/bin/Debug/netcoreapp2.1/systemimc.dll
+/Users/aluno/Documents/erivelton/systemimc/systemimc/bin/Debug/netcoreapp2.1/systemimc.pdb
+/Users/aluno/Documents/erivelton/systemimc/systemimc/obj/Debug/netcoreapp2.1/systemimc.csprojAssemblyReference.cache
+/Users/aluno/Documents/erivelton/systemimc/systemimc/obj/Debug/netcoreapp2.1/systemimc.csproj.CoreCompileInputs.cache
+/Users/aluno/Documents/erivelton/systemimc/systemimc/obj/Debug/netcoreapp2.1/systemimc.AssemblyInfoInputs.cache
+/Users/aluno/Documents/erivelton/systemimc/systemimc/obj/Debug/netcoreapp2.1/systemimc.AssemblyInfo.cs
+/Users/aluno/Documents/erivelton/systemimc/systemimc/obj/Debug/netcoreapp2.1/systemimc.dll
+/Users/aluno/Documents/erivelton/systemimc/systemimc/obj/Debug/netcoreapp2.1/systemimc.pdb
