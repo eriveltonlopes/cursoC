@@ -1,0 +1,11 @@
+/Users/aluno/Documents/erivelton/systemsoma/systemsoma/bin/Debug/netcoreapp2.1/systemsoma.deps.json
+/Users/aluno/Documents/erivelton/systemsoma/systemsoma/bin/Debug/netcoreapp2.1/systemsoma.runtimeconfig.json
+/Users/aluno/Documents/erivelton/systemsoma/systemsoma/bin/Debug/netcoreapp2.1/systemsoma.runtimeconfig.dev.json
+/Users/aluno/Documents/erivelton/systemsoma/systemsoma/bin/Debug/netcoreapp2.1/systemsoma.dll
+/Users/aluno/Documents/erivelton/systemsoma/systemsoma/bin/Debug/netcoreapp2.1/systemsoma.pdb
+/Users/aluno/Documents/erivelton/systemsoma/systemsoma/obj/Debug/netcoreapp2.1/systemsoma.csprojAssemblyReference.cache
+/Users/aluno/Documents/erivelton/systemsoma/systemsoma/obj/Debug/netcoreapp2.1/systemsoma.csproj.CoreCompileInputs.cache
+/Users/aluno/Documents/erivelton/systemsoma/systemsoma/obj/Debug/netcoreapp2.1/systemsoma.AssemblyInfoInputs.cache
+/Users/aluno/Documents/erivelton/systemsoma/systemsoma/obj/Debug/netcoreapp2.1/systemsoma.AssemblyInfo.cs
+/Users/aluno/Documents/erivelton/systemsoma/systemsoma/obj/Debug/netcoreapp2.1/systemsoma.dll
+/Users/aluno/Documents/erivelton/systemsoma/systemsoma/obj/Debug/netcoreapp2.1/systemsoma.pdb

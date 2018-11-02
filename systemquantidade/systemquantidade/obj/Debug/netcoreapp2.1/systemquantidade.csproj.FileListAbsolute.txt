@@ -1,0 +1,11 @@
+/Users/aluno/Documents/erivelton/systemquantidade/systemquantidade/bin/Debug/netcoreapp2.1/systemquantidade.deps.json
+/Users/aluno/Documents/erivelton/systemquantidade/systemquantidade/bin/Debug/netcoreapp2.1/systemquantidade.runtimeconfig.json
+/Users/aluno/Documents/erivelton/systemquantidade/systemquantidade/bin/Debug/netcoreapp2.1/systemquantidade.runtimeconfig.dev.json
+/Users/aluno/Documents/erivelton/systemquantidade/systemquantidade/bin/Debug/netcoreapp2.1/systemquantidade.dll
+/Users/aluno/Documents/erivelton/systemquantidade/systemquantidade/bin/Debug/netcoreapp2.1/systemquantidade.pdb
+/Users/aluno/Documents/erivelton/systemquantidade/systemquantidade/obj/Debug/netcoreapp2.1/systemquantidade.csprojAssemblyReference.cache
+/Users/aluno/Documents/erivelton/systemquantidade/systemquantidade/obj/Debug/netcoreapp2.1/systemquantidade.csproj.CoreCompileInputs.cache
+/Users/aluno/Documents/erivelton/systemquantidade/systemquantidade/obj/Debug/netcoreapp2.1/systemquantidade.AssemblyInfoInputs.cache
+/Users/aluno/Documents/erivelton/systemquantidade/systemquantidade/obj/Debug/netcoreapp2.1/systemquantidade.AssemblyInfo.cs
+/Users/aluno/Documents/erivelton/systemquantidade/systemquantidade/obj/Debug/netcoreapp2.1/systemquantidade.dll
+/Users/aluno/Documents/erivelton/systemquantidade/systemquantidade/obj/Debug/netcoreapp2.1/systemquantidade.pdb

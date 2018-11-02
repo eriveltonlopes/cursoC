@@ -1,0 +1,11 @@
+/Users/aluno/Documents/erivelton/systemmatriz/systemmatriz/bin/Debug/netcoreapp2.1/systemmatriz.deps.json
+/Users/aluno/Documents/erivelton/systemmatriz/systemmatriz/bin/Debug/netcoreapp2.1/systemmatriz.runtimeconfig.json
+/Users/aluno/Documents/erivelton/systemmatriz/systemmatriz/bin/Debug/netcoreapp2.1/systemmatriz.runtimeconfig.dev.json
+/Users/aluno/Documents/erivelton/systemmatriz/systemmatriz/bin/Debug/netcoreapp2.1/systemmatriz.dll
+/Users/aluno/Documents/erivelton/systemmatriz/systemmatriz/bin/Debug/netcoreapp2.1/systemmatriz.pdb
+/Users/aluno/Documents/erivelton/systemmatriz/systemmatriz/obj/Debug/netcoreapp2.1/systemmatriz.csprojAssemblyReference.cache
+/Users/aluno/Documents/erivelton/systemmatriz/systemmatriz/obj/Debug/netcoreapp2.1/systemmatriz.csproj.CoreCompileInputs.cache
+/Users/aluno/Documents/erivelton/systemmatriz/systemmatriz/obj/Debug/netcoreapp2.1/systemmatriz.AssemblyInfoInputs.cache
+/Users/aluno/Documents/erivelton/systemmatriz/systemmatriz/obj/Debug/netcoreapp2.1/systemmatriz.AssemblyInfo.cs
+/Users/aluno/Documents/erivelton/systemmatriz/systemmatriz/obj/Debug/netcoreapp2.1/systemmatriz.dll
+/Users/aluno/Documents/erivelton/systemmatriz/systemmatriz/obj/Debug/netcoreapp2.1/systemmatriz.pdb
